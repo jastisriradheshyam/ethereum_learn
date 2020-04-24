@@ -1,0 +1,15 @@
+{
+  "name": "web3_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasti Sri Radhe Shyam",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.6.6",
+    "web3": "^1.2.6"
+  }
+}
