@@ -34,6 +34,9 @@ module.exports = {
 }
 ```
 
+## Gachana
+- install from truffle framework website
+
 ## Notes
 
 - Problem with the naming of sol files with _ in them
